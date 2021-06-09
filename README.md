@@ -26,6 +26,7 @@
 ![Visualforce](https://img.shields.io/badge/Visualforce-blue?style=flat-square&logo=salesforce&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/Ruby-Red?style=flat-square&logo=ruby&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=javascript)
+![SOQL](https://img.shields.io/badge/-SOQL-blue?style=flat-square&logo=salesforce)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <!---
