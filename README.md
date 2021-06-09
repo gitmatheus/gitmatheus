@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitmatheus
+- 👋 Hi, I’m Matheus Gonçalves, a Lead Software Engineer at Salesforce
 - 👀 I’m interested in coding (_you don't say!!_), soccer ⚽, music 🎶, and videogames 🎮.
 - 🌱 I’m currently learning Ruby, JavaScript, Jest for Lightning Web Components and how to speak French.
 - 💞️ I’m looking to collaborate on things that can enable other people to progress in their career and their lives, professionally or personally.
