@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Visualforce](https://img.shields.io/badge/Visualforce-blue?style=flat-square&logo=salesforce&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/Ruby-Red?style=flat-square&logo=ruby&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=javascript)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <!---
