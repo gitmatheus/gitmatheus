@@ -9,16 +9,18 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@matheusdev)
 [![GitHub gitmatheus](https://img.shields.io/github/followers/gitmatheus?label=follow&style=social)](https://github.com/gitmatheus)
 
-- 👀 I’m interested in coding (_you don't say!!_), soccer ⚽, music 🎶, and videogames 🎮.
-- 📖 I’m currently learning Ruby, JavaScript, Jest for Lightning Web Components and how to speak French.
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I’m looking to collaborate on things that can enable other people to progress in their career and their lives, professionally or personally.
+<p><img align='center' src="https://i.imgur.com/tESs3yM.png" width="30"> I’m interested in coding (<em>you don't say!!</em>), soccer ⚽, music 🎶, and videogames 🎮.
+<p><img align='center' src="https://i.imgur.com/oZ0v6D2.gif" width="30"> I’m currently learning Ruby, JavaScript, Jest for Lightning Web Components and French.
+<p><img align='center' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I’m looking to collaborate on things that can enable other people to progress in their career and their lives, professionally or personally.</p>
 
 <p><img align='center' src="https://matheus.dev/wp-content/uploads/2016/09/M_Blue.png" width="20">
  Reach me at <a href="https://matheus.dev" target="_blank">matheus.dev </a> </p>
 
+
 ---
 
-### My Tech Stack
+<p><img align='left' src="https://i.imgur.com/B434ELL.gif" width="100"></p>
+<h3>My Tech Stack</h3> 
 
 ![Apex](https://img.shields.io/badge/Apex-blue?style=flat-square&logo=salesforce&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
