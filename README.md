@@ -1,6 +1,6 @@
 <h2> Hi, I'm Matheus Gonçalves! <img src="https://i.imgur.com/RSNpIzE.gif" width="50"></h2>
 
-<img align='right' src="https://matheus.dev/wp-content/uploads/2016/09/M_Blue.png" width="230">
+
 <p><strong>Lead Software Enginner at <a href="https://salesforce.com">Salesforce</a></strong> <img align='center' src="https://i.imgur.com/UTocQEQ.png" width="40"></p>
 
 
