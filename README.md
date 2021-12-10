@@ -22,11 +22,11 @@
 <h3>My Tech Stack</h3> 
 
 ![Apex](https://img.shields.io/badge/Apex-blue?style=flat-square&logo=salesforce&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![LWC](https://img.shields.io/badge/LWC-blue?style=flat-square&logo=salesforce&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Visualforce](https://img.shields.io/badge/Visualforce-blue?style=flat-square&logo=salesforce&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/Ruby-Red?style=flat-square&logo=ruby&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=javascript)
 ![SOQL](https://img.shields.io/badge/-SOQL-white?style=flat-square&logo=salesforce)
