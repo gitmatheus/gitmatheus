@@ -1,7 +1,7 @@
 <h2> Hi, I'm Matheus Gonçalves! <img src="https://i.imgur.com/RSNpIzE.gif" width="50"></h2>
 
 
-<p><strong>Lead Software Enginner at <a href="https://salesforce.com">Salesforce</a></strong> <img align='center' src="https://i.imgur.com/UTocQEQ.png" width="40"></p>
+<p><strong>Lead Software Enginner (LMTS) at <a href="https://salesforce.com">Salesforce</a></strong> <img align='center' src="https://i.imgur.com/UTocQEQ.png" width="40"></p>
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/developer__c.svg?style=social&label=developer__c)](https://twitter.com/developer__c)
 [![Linkedin: matheusgoncalves](https://img.shields.io/badge/-matheusgoncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgoncalves/)](https://www.linkedin.com/in/matheusgoncalves/)
