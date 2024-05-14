@@ -8,7 +8,7 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@matheusdev)
 [![GitHub gitmatheus](https://img.shields.io/github/followers/gitmatheus?label=follow&style=social)](https://github.com/gitmatheus)
 
-<p><img align='center' src="https://i.imgur.com/cQoLvo6.png" width="30"> I’m interested in coding (<em>shocking!</em>), soccer ⚽, music 🎶, and snowboarding 🏂, OneWheels, and videogames 🎮.
+<p><img align='center' src="https://i.imgur.com/cQoLvo6.png" width="30"> I’m interested in coding (<em>shocking!</em>), soccer ⚽, music 🎶, snowboarding 🏂, OneWheels, and videogames 🎮.
 <p><img align='center' src="https://i.imgur.com/oZ0v6D2.gif" width="30"> I’m currently learning Ruby, TypeScript, JavaScript, Jest for Lightning Web Components and French.
 <p><img align='center' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I’m looking to collaborate on things that can enable other people to progress in their career and their lives, professionally or personally.</p>
 
